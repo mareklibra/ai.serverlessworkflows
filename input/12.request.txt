@@ -1,0 +1,1 @@
+Takes a name as an input and writes greeting to that person as a result.
