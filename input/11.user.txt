@@ -1,2 +1,2 @@
 # Request
-Considering the information provided so far, generate a workflow which
+Considering the information provided so far, generate a workflow in json format which
